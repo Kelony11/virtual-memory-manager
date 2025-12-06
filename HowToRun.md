@@ -2,7 +2,7 @@
 
 **THE BENCHMARKS**
 
-- From your project-3 directory:
+- From your root directory:
 
     Build library only:
 
@@ -34,7 +34,7 @@
 
 **ADDITIONAL TEST FILES**
 
-- From your project-3 directory:
+- From your root directory:
 
     Build library only:
 
