@@ -118,4 +118,4 @@ The instructions to run the project is located in the `HowToRun.md` file in the 
 
 # CONTRIBUTORS 👥
 
-- **Kelvin Ihezue** · **Bryan Shangguan**
+- **Kelvin Ihezue**, **Bryan Shangguan**
