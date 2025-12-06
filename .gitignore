@@ -1,0 +1,14 @@
+# Build outputs
+*.o
+*.a
+test
+mtest
+benchmark/test
+benchmark/mtest
+
+# macOS files
+.DS_Store
+
+# macOS debug symbol bundles
+*.dSYM/
+
