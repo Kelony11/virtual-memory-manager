@@ -84,7 +84,8 @@ The goal is to practice how real OSes wire together page tables, TLBs, and user-
 
 ---
 
-# HOW TO RUN THE PROGRAM
+# HOW TO RUN THE PROGRAM 🚀
+
 The instructions to run the project is located in the `HowToRun.md` file in the root directory.
 
 ---
